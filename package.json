@@ -1,0 +1,18 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "asdasd",
+  "main": "asd",
+  "scripts": {
+    "test": "asd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asd"
+  },
+  "keywords": [
+    "ad"
+  ],
+  "author": "juan pablo",
+  "license": "ISC"
+}
